@@ -1,0 +1,14 @@
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\bin\Debug\net9.0\Desafio_7.exe
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\bin\Debug\net9.0\Desafio_7.deps.json
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\bin\Debug\net9.0\Desafio_7.runtimeconfig.json
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\bin\Debug\net9.0\Desafio_7.dll
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\bin\Debug\net9.0\Desafio_7.pdb
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.AssemblyInfoInputs.cache
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.AssemblyInfo.cs
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.csproj.CoreCompileInputs.cache
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.dll
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\refint\Desafio_7.dll
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.pdb
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\Desafio_7.genruntimeconfig.cache
+C:\Users\55286872840\Desktop\BackEnd Torloni\Desafio_7\obj\Debug\net9.0\ref\Desafio_7.dll
