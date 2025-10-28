@@ -12,3 +12,4 @@ C:\Users\55286872840\Desktop\BackEnd Torloni\ReviewArrays\obj\Debug\net9.0\refin
 C:\Users\55286872840\Desktop\BackEnd Torloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.pdb
 C:\Users\55286872840\Desktop\BackEnd Torloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.genruntimeconfig.cache
 C:\Users\55286872840\Desktop\BackEnd Torloni\ReviewArrays\obj\Debug\net9.0\ref\ReviewArrays.dll
+C:\Users\55286872840\Desktop\BackEnd Torloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.sourcelink.json

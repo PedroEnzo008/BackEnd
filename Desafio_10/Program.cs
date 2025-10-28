@@ -65,7 +65,7 @@
 
     static void Exercicio1()
     {
-    Console.WriteLine("Executando Exercício 1...");
+    Console.WriteLine("Exercício 1...");
         
          double salario, gastos;
 
@@ -87,7 +87,7 @@
 
     static void Exercicio2()
     {
-    Console.WriteLine("Executando Exercício 2...");
+    Console.WriteLine("Exercício 2...");
         
         int golsTime1, golsTime2;
 
@@ -114,7 +114,7 @@
 
     static void Exercicio3()
     {
-        Console.WriteLine("Executando Exercício 3...");
+        Console.WriteLine("Exercício 3...");
          double lado1, lado2, lado3;
 
         Console.Write("Digite o valor do primeiro lado: ");
@@ -151,7 +151,7 @@
 
     static void Exercicio4()
     {
-    Console.WriteLine("Executando Exercício 4...");
+    Console.WriteLine("Exercício 4...");
         
         int senha = 1234;
 
@@ -172,7 +172,7 @@ else
 
     static void Exercicio5()
     {
-        Console.WriteLine("Executando Exercício 5...");
+        Console.WriteLine("Exercício 5...");
         Console.Write("Digite o número de maçãs compradas: ");
         int quantidade = int.Parse(Console.ReadLine());
 
@@ -193,7 +193,7 @@ else
 
     static void Exercicio6()
     {
-    Console.WriteLine("Executando Exercício 6...");
+    Console.WriteLine("Exercício 6...");
         
         {
 
